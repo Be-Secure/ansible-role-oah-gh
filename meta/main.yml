@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: Vinod Panicker
-  description:  "Ansible role to install and update BeSman"
+  description:  "Ansible role to install and update gh"
   company: ""
   license: "license (BSD, MIT)"
   min_ansible_version: 2.0

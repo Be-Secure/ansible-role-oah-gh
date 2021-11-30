@@ -1,6 +1,6 @@
 ---
 - debug:
-    msg: "oah-install of oah.bes"
+    msg: "oah-install of oah.gh"
 
 - name: Setting gpg-key
   shell: |
