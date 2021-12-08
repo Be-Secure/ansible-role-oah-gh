@@ -1,0 +1,6 @@
+---
+- debug:
+    msg: "oah-reset of gh.shell"
+#remove gh-shell
+
+#install gh-shell

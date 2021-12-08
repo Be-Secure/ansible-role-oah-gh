@@ -1,0 +1,10 @@
+---
+- debug:
+    msg: "oah-install of oah.gh"
+
+- name: Remove gh tool
+  become: yes
+  apt:
+    pkg: gh
+    state: absent
+    
